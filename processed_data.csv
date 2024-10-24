@@ -2,10 +2,10 @@ id,keyword,location,text,target
 1,earthquake,,deed reason may forgive earthquake,1
 4,fire,,forest fire near canada,1
 5,evacuation,,resident ask shelter place notify officer evacuation shelter place order expect,1
-6,evacuation,,people receive evacuation order wildfire,1
+6,fire,,people receive evacuation order wildfire,1
 7,fire,,get send photo ruby smoke pour school wildfire,1
 8,fire,,update close direction due lake county fire rocky fire wildfire,1
-10,disaster,,heavy rain cause flash flood streets colorado spring area flood disaster,1
+10,flooding,,heavy rain cause flash flood streets colorado spring area flood disaster,1
 13,fire,,top hill see fire wood,1
 14,evacuation,,theres emergency evacuation happen build across street,1
 15,tornado,,afraid tornado come area,1
@@ -18,16 +18,13 @@ id,keyword,location,text,target
 24,,,love fruit,0
 25,,,summer lovely,0
 26,,,car fast,0
-28,,,,0
 31,,,ridiculous,0
 32,,,cool,0
 33,,,love ski,0
 34,,,wonderful day,0
-36,,,,0
 37,,,eat,0
 38,,,last week,0
 39,,,love,0
-40,,,,0
 41,,,like,0
 44,,,end,0
 48,ablaze,birmingha,wholesale market ablaze,1
@@ -430,9 +427,7 @@ id,keyword,location,text,target
 621,arsonist,,make,0
 622,arsonist,,town melt ice cube arsonist,0
 623,arsonist,adelaide south australia,arsonist blame blaze plastics recycle business report,0
-624,arsonist,,,0
 625,arsonist,washingtondc,zodiac girl feat trey produce chuck da arsonist,0
-628,arsonist,,,0
 630,arsonist,california,allege east bay serial arsonist arrest san,1
 631,arsonist,,still cant move,0
 633,arsonist,,guess say think,0
@@ -810,7 +805,6 @@ id,keyword,location,text,target
 1174,blight,uk,tragedy blight humanity shame every live refugee,1
 1175,blight,detroit mi united states,article jackman time group later downgrade estimate square mile,0
 1177,blight,,respect elaboration blight lock,0
-1178,blight,,,0
 1179,blizzard,,every win rank play give special card back would cool long te,0
 1181,blizzard,,deal wait buy,0
 1182,blizzard,guelph ontario canada,new print available wait long blizzard,0
@@ -819,10 +813,8 @@ id,keyword,location,text,target
 1188,blizzard,canada,blizzard rock make hump day complete,0
 1189,blizzard,waukesha wi,really want blizzard say guess tonight,0
 1190,blizzard,sydney,hi believe presentation nothing like see live,1
-1191,blizzard,,,0
 1195,blizzard,himalayan mountains,dolphin worship group base superstition take look tweet,1
 1196,blizzard,,let get train roll caution though break overwatch,0
-1198,blizzard,colorado,,0
 1199,blizzard,,peanut butter dough blizzard,0
 1201,blizzard,ontario canada,controller work one second,0
 1202,blizzard,,tomorrow announcement,0
@@ -1757,7 +1749,6 @@ id,keyword,location,text,target
 2524,collision,riverside ca,san,0
 2527,collision,seattle wa usa,southbound coal creek collision block center lane,1
 2528,collision,san francisco ca,north,1
-2530,collision,orange county california,,1
 2531,collision,usa az,anti collision rear innovation gadget,0
 2532,collision,east atlanta georgia,well doe exist collision place start estimate thats time car worth,1
 2534,collision,denver colorado,motorcyclist bicyclist injure collision broadway,1
@@ -1846,7 +1837,6 @@ id,keyword,location,text,target
 2651,crashed,buenos aires,intact part lift odds plane glide crash sea,1
 2655,crush,,like love husband post another man man crush,0
 2656,crush,,crush,0
-2657,crush,,,1
 2658,crush,,guy know make woman crush first one ever,0
 2659,crush,,even lie even tho stand still always crush,0
 2660,crush,san antonio tx,woman crush,0
@@ -2966,7 +2956,6 @@ id,keyword,location,text,target
 4257,drowning,,explanation request much want provide get job done constantly drown work,0
 4260,drowning,,drown acrylic,1
 4261,drowning,,drown girl centipede press sign number limit full,0
-4262,drowning,hendersonville nc,,0
 4264,drowning,new jersey dr,hello yeah someone drown send medic,1
 4265,drowning,ct ny,drown,0
 4266,drowning,,like theres fire skin drown within,1
@@ -3044,7 +3033,6 @@ id,keyword,location,text,target
 4365,earthquake,california usa,palm,1
 4366,earthquake,,thing look significant beautiful eye humor create earthquake,0
 4368,earthquake,melbourne australia,earthquake month woman fear abuse via,1
-4372,earthquake,barcelona spain,,0
 4373,earthquake,hawaii usa,report volcano earthquake quake,1
 4374,earthquake,new zealand,see unnecessary death result earthquake strengthen legislation,1
 4375,earthquake,,small earthquake worry fine great,1
@@ -3055,7 +3043,6 @@ id,keyword,location,text,target
 4381,earthquake,,lake,1
 4382,earthquake,,earthquake drill,1
 4383,earthquake,,real tear eye entire episode,0
-4384,earthquake,,,0
 4385,earthquake,desde republica argentina,geyser,0
 4387,earthquake,,earthquake drill,0
 4388,earthquake,,thank great encouragement new video come apocalyptic earthquake tsunami,1
@@ -3662,7 +3649,6 @@ id,keyword,location,text,target
 5210,fatalities,ireland,driver fatality road pedestrian cyclist risk,1
 5211,fatality,lowell ma,victory,0
 5212,fatality,,cuddle right,0
-5213,fatality,,,1
 5218,fatality,ny,savage leak account wonder quick fatality mobile real son,0
 5219,fatality,,like video fatality captain falcon,0
 5220,fatality,,hibernate irrespective pitch fatality pan,0
@@ -4233,7 +4219,6 @@ id,keyword,location,text,target
 6009,hazardous,muntinlupa city philippines,also help campaign warn public hazardous keratin treatment blowout copycat,0
 6012,hazardous,,caution breathe may hazardous health,1
 6013,hazardous,oregon usa,possible sneak hospital stab hazardous needle inject crazy disease vein die,0
-6015,hazardous,,,1
 6017,hazardous,,caution breathe may hazardous health,0
 6019,hazardous,memphis tn,issue hazardous weather outlook,1
 6020,hazardous,,get hazardous get world alive,1
@@ -4496,7 +4481,6 @@ id,keyword,location,text,target
 6391,hurricane,haiku maui hawaii,hurricane live track loop,1
 6392,hurricane,,happy birthday big,0
 6393,hurricane,,welcome,0
-6394,hurricane,,,1
 6395,hurricane,new york,turbine hurricane wireless stereo headphone headset full,0
 6396,hurricane,berlin germany,see hurricane earth,1
 6397,hurricane,vineyard,true,1
@@ -5114,7 +5098,6 @@ id,keyword,location,text,target
 7291,nuclear disaster,,policy without responsibility nuclear repeat nuclear japan disaster failure guardian,1
 7292,nuclear disaster,,half poll respondent worry nuclear disaster fade public consciousness,0
 7294,nuclear disaster,,disaster free encyclopedia love nuclear technology glorious,1
-7295,nuclear reactor,,,0
 7296,nuclear reactor,,check awesome profile swim use reactor ge robot nuclear innovation,0
 7297,nuclear reactor,,nuclear plant move ahead finance,0
 7299,nuclear reactor,washington dc,global nuclear reactor construction market grow,1
@@ -6128,11 +6111,9 @@ id,keyword,location,text,target
 8742,siren,,make weird high pitch noise hear siren,0
 8743,siren,,today siren birthday spoil,0
 8744,siren,kenya,jam garden city mat bumper bumper decide chill via siren,0
-8745,siren,,,0
 8746,siren,london,big love,0
 8747,siren,new england,amateur night actress reprise role siren horror,1
 8750,siren,,cousin course cause di maria,0
-8751,siren,,,0
 8752,siren,uaesharjah abudhabi,side game rather better attack siren character except new girl,0
 8753,siren,tampa fl,demoness voice angel like siren call beckon void,0
 8754,siren,new york,model siren amplifier police emergency vehicle full read,0
@@ -6765,7 +6746,6 @@ id,keyword,location,text,target
 9690,tornado,,glad get away safe reference tornado near drum heller around,1
 9691,tornado,,give spread leg pussy pound view video,0
 9695,tornado,,weak distinct rotation fully condense near villa ridge mo today near center video,1
-9697,tornado,,,0
 9698,tornado,,brunette teen tease home view video,0
 9699,tornado,canada,area tornado warning end thunderstorm move eastward area tornado warning end,1
 9701,tornado,khartoum sudan,tornado fly around room come,0
@@ -7582,7 +7562,7 @@ id,keyword,location,text,target
 10832,wrecked,london,word wreck stock trade,0
 10833,wrecked,,great atmosphere lion gig tonight hear wreck,0
 10834,wrecked,,word wreck stock,0
-10835,suicide bomber,,pic old suicide bomber detonate bomb turkey army trench release,1
+10835,suicide bomb,,pic old suicide bomber detonate bomb turkey army trench release,1
 10837,explode,,box ready explode explode kitten finally arrive,0
 10839,,,police flood road closure,1
 10840,,,seismic intensity,1
@@ -7591,11 +7571,11 @@ id,keyword,location,text,target
 10843,earthquake,,god earthquake,1
 10844,,,severe weather bulletin typhoon tropical cyclone warn issue hanna,1
 10846,,,heat wave warn aa plan visit friend year,1
-10847,suicide bomber,,group suicide bomber detonate vest mosque inside special force headquarter kill people,1
+10847,suicide bomb,,group suicide bomber detonate vest mosque inside special force headquarter kill people,1
 10848,loud bang,,hear really loud bang everyone asleep great,0
-10849,explode,,gas thing explode hear scream whole street smell gas,1
+10849,exploded,,gas thing explode hear scream whole street smell gas,1
 10850,,,flash flood warn continue county,1
-10851,thunder,,issue severe warning part expect trauma case thunderstorm ar,1
+10851,trauma,,issue severe warning part expect trauma case thunderstorm ar,1
 10852,debris,,aircraft debris find reunion miss,1
 10853,,,lose control car overtake collide bath north east somerset,1
 10854,earthquake,,user earthquake information earthquake phone,1
@@ -7603,12 +7583,12 @@ id,keyword,location,text,target
 10859,oil spill,,oil spill may costly bigger project break,1
 10860,siren,,siren go tornado warn,1
 10862,quarantine,,official say quarantine place home possible case develop symptom,1
-10863,evacuated,,fall glink tram update fire crew evacuate passenger world news,1
+10863,evacuate,,fall glink tram update fire crew evacuate passenger world news,1
 10864,evacuate,,flip side bomb everyone evacuate stay tune blow,1
 10866,bomb,,suicide bomber kill security site mosque via world news wall,1
 10867,storm,,violent record break tornado nearly run,1
-10869,bridge collapse,,two giant crane hold bridge collapse nearby home,1
+10869,collapse,,two giant crane hold bridge collapse nearby home,1
 10870,fire,,control wild fire even northern part state trouble,1
 10871,,,volcano,1
-10872,collided,,police investigate collide car little rider suffer serious nonlife threaten injury,1
+10872,collide,,police investigate collide car little rider suffer serious nonlife threaten injury,1
 10873,fire,,latest home raze northern wildfire news,1

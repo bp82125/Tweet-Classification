@@ -2,12 +2,12 @@ id,keyword,location,text,target
 1,earthquake,,deed reason may forgive earthquake,1
 4,fire,,forest fire near canada,1
 5,evacuation,,resident ask shelter place notify officer evacuation shelter place order expect,1
-6,fire,,people receive evacuation order wildfire,1
-7,smoke,,get send photo ruby smoke pour school wildfire,1
+6,evacuation,,people receive evacuation order wildfire,1
+7,fire,,get send photo ruby smoke pour school wildfire,1
 8,fire,,update close direction due lake county fire rocky fire wildfire,1
 10,disaster,,heavy rain cause flash flood streets colorado spring area flood disaster,1
 13,fire,,top hill see fire wood,1
-14,emergency,,theres emergency evacuation happen build across street,1
+14,evacuation,,theres emergency evacuation happen build across street,1
 15,tornado,,afraid tornado come area,1
 16,heat wave,,three people die heat wave far,1
 17,flooding,,south get flood wait second live south go go flood,1
@@ -188,7 +188,7 @@ id,keyword,location,text,target
 265,ambulance,,ambulance sprinter automatic vehicle choice compliant,0
 266,ambulance,,air ambulance helicopter crash kill nine,1
 267,ambulance,williamstown vt,need medical assistance call ambulance need,0
-268,ambulance,north carolina usa,petition per hour minimum wage em ambulance,0
+268,ambulance,north carolina usa,petition per hour minimum wage ambulance,0
 269,ambulance,,twelve fear kill air ambulance helicopter crash,1
 270,ambulance,karachi,twelve fear kill air ambulance helicopter crash,1
 271,ambulance,,ambulance sprinter automatic vehicle choice compliant,0
@@ -199,7 +199,7 @@ id,keyword,location,text,target
 277,ambulance,la,twelve fear kill air ambulance helicopter crash,1
 279,ambulance,,ambulance right outside work,0
 280,ambulance,canada,dog think ambulance,0
-281,ambulance,,happen em ambulance respond dual siren,0
+281,ambulance,,happen ambulance respond dual siren,0
 283,ambulance,lexington,twelve fear kill air ambulance helicopter crash,1
 285,ambulance,,twelve fear kill air ambulance helicopter crash,1
 287,ambulance,usa,twelve fear kill air ambulance helicopter crash world news,1
@@ -333,7 +333,7 @@ id,keyword,location,text,target
 478,armageddon,toronto on,think yesterday saw scary hail armageddon,1
 479,armageddon,,think already come year ago armageddon gog,0
 480,armageddon,,sadly window reveal ethics armageddon,0
-481,armageddon,castaic ca,armageddon avert el patron ultima,0
+481,armageddon,castaic ca,armageddon avert patron ultima,0
 482,armageddon,helsinki finland,time hour latest series blueprint armageddon extremely impressive,0
 483,armageddon,east kilbride,till armageddon,0
 484,armageddon,,unite convert soon die armageddon,0
@@ -424,7 +424,7 @@ id,keyword,location,text,target
 612,arsonist,america,anything nice say come sit,0
 613,arsonist,nyc,video show arsonist torch popular restaurant strictly vegetarian vegetarian go unite blue,0
 614,arsonist,sf bay area,arrest set many fire watch tonight arsonist headline mix,1
-615,arsonist,orange county california,video capture man remove flag long beach ca home burn arsonist seek,0
+615,arsonist,orange county california,video capture man remove flag long beach home burn arsonist seek,0
 617,arsonist,,trick think nasty thing,0
 619,arsonist,winston salem north carolina,take paradise arsonist spotlight,0
 621,arsonist,,make,0
@@ -471,7 +471,7 @@ id,keyword,location,text,target
 679,attack,,thank damn heart attack,0
 680,attack,halton ontario,suspect latest attack psychological issue,1
 681,attack,mumbai,give evidence share terrorist use next,1
-682,attack,portland oregon,illegal alien release time charge rape murder maria ca woman prior offense,1
+682,attack,portland oregon,illegal alien release time charge rape murder maria woman prior offense,1
 683,attack,,strongly condemn attack ary news team cowardly act simply try job,1
 684,attack,,theater attack gun grabber demand hatchet control,1
 685,attack,london,fact atomic bomb call little boy fat man say lot mentality go attack,1
@@ -529,7 +529,7 @@ id,keyword,location,text,target
 762,avalanche,,flame col avalanche preseason,0
 763,avalanche,,secret avalanche catechize inner self confidential communication respect create worth,0
 767,avalanche,new york ny,fall leave poplar fully ordain tumble avalanche,0
-770,avalanche,south central wales,saw two great punk band make original music last week check em,0
+770,avalanche,south central wales,saw two great punk band make original music last week check,0
 773,avalanche,,great performance chip saver chevy,0
 774,avalanche,jersey city new jersey,musician recreate classic album cover clever music video avalanche,0
 775,avalanche,,drive avalanche car week like drive tank,1
@@ -539,7 +539,7 @@ id,keyword,location,text,target
 782,avalanche,,great one time deal avalanche music purchase get neal shirt,0
 783,avalanche,w maple suite,draft overall play last season,0
 784,avalanche,,get video rapper get song,0
-786,avalanche,,yo flex,0
+786,avalanche,,flex,0
 787,avalanche,philippines,avalanche one world away make believe wide awake,0
 788,avalanche,,possible new jersey avalanche next year,0
 790,avalanche,canada,feat watch incredible music video avalanche,0
@@ -658,7 +658,7 @@ id,keyword,location,text,target
 948,blaze,,like babe ball fun lan,0
 951,blaze,rio de janeiro,like video blaze hack,0
 952,blaze,,blaze cover month police detain thousand black interrogation facility,0
-953,blaze,,yo get bar even rapper,0
+953,blaze,,get bar even rapper,0
 955,blaze,columbus oh,ugh blaze put calorie pizza cool,0
 956,blaze,pa,pic blaze fort look like jackass face like,0
 957,blaze,,look like year write computer ahead,0
@@ -673,7 +673,7 @@ id,keyword,location,text,target
 968,blaze,,total tweet fail beautiful inside blaze,0
 971,blaze,mocity,come promise right,0
 972,blaze,,huh start last year ever since people blaze back,0
-974,blaze,southern california desert,bedroom bath sale palm ca video,0
+974,blaze,southern california desert,bedroom bath sale palm video,0
 976,blaze,gotham city,yes gun,0
 977,blaze,,girl smooth,0
 978,blaze,,say agree artiste week fact conversation hip hop club banger,0
@@ -729,7 +729,7 @@ id,keyword,location,text,target
 1050,bleeding,quantico va,ear bleed,0
 1051,bleeding,,wait hour get cab foot bleed,1
 1052,bleeding,,cute dinner date til cam nose start bleed,0
-1054,bleeding,,head like yo nose bleed,0
+1054,bleeding,,head like nose bleed,0
 1057,bleeding,,bleed silence feel safe violence,0
 1058,bleeding,island lake il,fell someone back hit head concrete bleed,0
 1061,bleeding,live oak tx,yes bleed heart liberal,1
@@ -738,7 +738,7 @@ id,keyword,location,text,target
 1066,bleeding,,know bleed heart pickup artist,0
 1067,bleeding,madisonville tn,awesome saw bleed pretty bad,0
 1069,bleeding,basketball city usa,bleed brain know cause,0
-1070,bleeding,,let see good soccer bleed yo face,0
+1070,bleeding,,let see good soccer bleed face,0
 1071,bleeding,,bleed wild thing run around apartment work bar,0
 1072,bleeding,,bleed instinct kick look away scratch back head,0
 1073,bleeding,,ear bleed hate,0
@@ -746,7 +746,7 @@ id,keyword,location,text,target
 1075,bleeding,the great state of texas,saw keep race even bleed,1
 1077,bleeding,,rave wed see eye bleed,0
 1078,bleeding,alicante valencia,say bad thing happen reason wise word go stop te bleed,0
-1079,blew up,,yo blow damn fast,0
+1079,blew up,,blow damn fast,0
 1080,blew up,atlanta,go look blow atomic bomb,0
 1081,blew up,,blow cause cute active follower,0
 1082,blew up,greensboro nc,see crazy line blow,0
@@ -880,7 +880,7 @@ id,keyword,location,text,target
 1272,blood,ewa beach hi,run blood,0
 1273,blood,biloxi mississippi,personal favorite include muse green day royal blood,0
 1275,blood,,shed innocent blood sons daughter land pollute psalm help stop sin abortion,0
-1276,blood,buenos aires,se pone cantar cry lightning,0
+1276,blood,buenos aires,pone cantar cry lightning,0
 1277,blood,indonesia,wasnt big stab deep stab theres like blood,1
 1278,blood,brecksville oh,add item everyday eat habit please research take blood,0
 1279,bloody,walthamstow london,bloody hell,0
@@ -948,7 +948,7 @@ id,keyword,location,text,target
 1371,blown up,londonoutlaw country,like blow,0
 1372,blown up,grimsby england,dog blow kennel bloody terrorist,0
 1374,blown up,,turn get blow,0
-1375,blown up,,go beat blow next thing know ra al bring back life escape,1
+1375,blown up,,go beat blow next thing know ra bring back life escape,1
 1376,blown up,,ass get metaphorically blow piper wear pant charm,0
 1378,blown up,manchester the world england,also help blow bash bottle nitroglycerin book,0
 1379,body bag,new york,new ladies shoulder tote handbag woman cross body bag leather fashion purse full,0
@@ -1017,7 +1017,7 @@ id,keyword,location,text,target
 1474,body bagging,,really meek,1
 1475,body bagging,,hour bag grocery ache body,0
 1477,body bagging,,drake really body bag peep man really bout,0
-1479,body bags,austin texas,call report dangerous activity tell em body bag arrival,1
+1479,body bags,austin texas,call report dangerous activity tell body bag arrival,1
 1480,body bags,oklahoma city,summer contrast candy color bowknot cross body tote shoulder bag zip po,0
 1482,body bags,ca,hobo hobo vintage convertible,0
 1483,body bags,,child shoulder bag shoulder book bag cartoon cross body bag girl,0
@@ -1063,7 +1063,7 @@ id,keyword,location,text,target
 1532,bomb,lincoln ne,comment new evidence japan effort build atom bomb end,1
 1533,bomb,wny,bomb ass firework picture,0
 1534,bomb,bolton tewkesbury uk,prepare remember day bomb drop,1
-1535,bomb,,guardian view legacy still shadow bomb editorial world long ca,1
+1535,bomb,,guardian view legacy still shadow bomb editorial world long,1
 1537,bomb,,fantastic bomb bye god,0
 1538,bomb,,would bomb,0
 1540,bomb,,guy scar show real name anyway know ill bomb,0
@@ -1089,7 +1089,7 @@ id,keyword,location,text,target
 1572,bomb,,bomb appropriate see family love shout bullet,0
 1573,bomb,,gunman pepper spray fake bomb,1
 1574,bomb,odawara japan,bomb lose mile coast fell ship,1
-1575,bomb,,guardian view legacy still shadow bomb editorial world long ca,1
+1575,bomb,,guardian view legacy still shadow bomb editorial world long,1
 1576,bomb,chicago il,life vocal lyrical bomb saw live summer amaze vocalist sleep,0
 1577,bomb,des moines ia,da bomb,0
 1579,bombed,dundas ontario,jay rock bomb one ahead bell back blue jay,0
@@ -1390,7 +1390,7 @@ id,keyword,location,text,target
 2001,bush fires,,apparently bush fire near live weekend totally oblivious,1
 2003,bush fires,selangor,bush fire please evacuate affect area soon possible advise,1
 2006,bush fires,,ted fire back bush lose republican like mitt video,0
-2007,bush fires,london,bush fire ca crazy,1
+2007,bush fires,london,bush fire crazy,1
 2009,casualties,,triumphant moment cook two egg easy yolk casualty,0
 2010,casualties,,robot could reduce civilian casualty call ban premature spectrum,1
 2012,casualties,,another movie theater home time thankful casualty life go allow evil win,1
@@ -1618,7 +1618,7 @@ id,keyword,location,text,target
 2334,collapse,india,ash test hilarious twitter reaction collapse,0
 2336,collapse,sandton south africa,sa steel ferrochrome industry verge collapse even put list question president oral answer,0
 2337,collapse,nigeria,correction tent collapse story,1
-2339,collapse,,spot fix anyone wi say sham say team collapse,0
+2339,collapse,,spot fix anyone wi say say team collapse,0
 2340,collapse,,come work today literally want collapse exhaustion,1
 2341,collapse,europe,tax revenue collapse debt crisis continue via,1
 2342,collapse,,world react collapse,0
@@ -1704,7 +1704,7 @@ id,keyword,location,text,target
 2457,collided,,first tweet collide pretty sweet ask,0
 2458,collided,toronto,police investigate collide car little rider suffer serious nonlife threaten injury,1
 2459,collided,peterborough on,vehicle collide lock lansdowne crew way,1
-2460,collided,,love hate collide part jake,0
+2460,collided,,love hate collide part,0
 2462,collided,,thus make assault useless spear collide dark force however penetrate due dark,0
 2463,collided,,score point punch quest stop squeaky bat collide skull,1
 2464,collided,,read work collide read pleasure miss vermilion,0
@@ -1768,7 +1768,7 @@ id,keyword,location,text,target
 2539,collision,colorado,motorcyclist bicyclist injure collision broadway least two people colorado news,1
 2540,collision,north highlands ca,traffic collision ambulance elkhorn,1
 2541,collision,vancouver,close trunk collision,1
-2542,collision,,head head collision problem nobody solve em long division,0
+2542,collision,,head head collision problem nobody solve long division,0
 2543,collision,san francisco ca,island,1
 2544,collision,sacramento ca,traffic collision injury ave south sac,1
 2545,collision,ontario canada,clear collision fort bind approach vehicle remove,1
@@ -1941,7 +1941,7 @@ id,keyword,location,text,target
 2787,curfew,adelaide australia,curfew damp,0
 2788,curfew,california,lie though pay old sometimes like first get car curfew freedom,0
 2792,curfew,adelaide australia,curfew,0
-2793,curfew,,rite man curfew long side aka cum fi steal di show rubbery di whole fi sound music,0
+2793,curfew,,rite man curfew long side aka cum steal di show rubbery di whole sound music,0
 2794,curfew,benedict college,dont even come worry curfew,0
 2795,curfew,,get whole curfew,0
 2796,curfew,,hour late curfew pray dog doe bark unlock door,0
@@ -2225,7 +2225,7 @@ id,keyword,location,text,target
 3181,deluge,,sometimes back truck unload descriptive deluge indecency explain next,0
 3182,deluge,usa,audio business owner share would differently,0
 3183,deluge,,whole slew update post come host fix un deluge,0
-3184,deluge,,photo heaven send jake warm morning montana river early even,0
+3184,deluge,,photo heaven send warm morning montana river early even,0
 3185,deluge,,thing get soak deluge go pad tampon thank,0
 3186,deluge,,deluge awesome word idea like much,0
 3188,deluge,,wrinkle face deluge decay,0
@@ -2268,7 +2268,7 @@ id,keyword,location,text,target
 3248,deluged,pakistan,news alert glimpse deluge heavy rainfall,1
 3249,deluged,balvanera,afterwards alone hour savour prolong almost physical intensity feeling deluge,0
 3252,deluged,aro diaspora,come back fly ant day capital deluge annual swarm wing insect,1
-3253,demolish,washington dc,rand debate strategy demolish bad idea point maybe em,1
+3253,demolish,washington dc,rand debate strategy demolish bad idea point maybe,1
 3255,demolish,nigeria,government demolish illegal structure international conference,0
 3256,demolish,,government demolish illegal structure international conference state government,0
 3259,demolish,eastbourne england,silver architect win permission demolish tower replace city tall build,0
@@ -2332,7 +2332,7 @@ id,keyword,location,text,target
 3351,demolished,paterson new jersey,three home demolish unrecognized village international middle east media center,1
 3355,demolition,usa,begin demolition home toxic area buffalo,1
 3356,demolition,,love even little youd put demolition,0
-3357,demolition,lisbon portugal,draw day demolition daily football selection service consistently make money lay yo,0
+3357,demolition,lisbon portugal,draw day demolition daily football selection service consistently make money lay,0
 3359,demolition,ma,demolition still fire ever,0
 3361,demolition,halifax nouvellecosse,hire apply demolition worker job,0
 3362,demolition,,sale demolition trend near sure result poorly maintain apartment,0
@@ -2352,7 +2352,7 @@ id,keyword,location,text,target
 3381,demolition,atlantic ia,last chance work old fairground finish demolition help would appreciate,0
 3383,demolition,,think get car friend join demolition derby,0
 3387,demolition,,general news demolition house waterway begin mile via full story,0
-3388,demolition,new york usa,like fix alec make state tort work law lead injustice,0
+3388,demolition,new york usa,like fix make state tort work law lead injustice,0
 3389,demolition,,really need tone weight room demolition,0
 3390,demolition,arthas us,giveaway music kit death head demolition,0
 3391,demolition,funtua nigeria,begin demolition building school land,1
@@ -2454,7 +2454,7 @@ id,keyword,location,text,target
 3520,derailment,,train derailment village youth save many live group villager save passenger live two train,1
 3521,derailment,,know cow incident yr fault line could cause derailment,1
 3522,derailment,india,train derailment village youth save many live,1
-3523,derailment,chicagoland,still box plan calumet el train derailment,1
+3523,derailment,chicagoland,still box plan calumet train derailment,1
 3524,derailment,,train derailment village youth save many live group villager save passenger live two train,1
 3525,derailment,uk,well think sound like fine plan little derailment possible applaud,1
 3526,derailment,india,railway minister prabhu call derailment natural calamity,1
@@ -2537,7 +2537,7 @@ id,keyword,location,text,target
 3639,desolation,singapore,theres people like whole people name desolation,0
 3640,desolation,quilmes arg,desperation dislocation separation condemnation revelation temptation isolation desolation let go find away,1
 3641,desolation,,desolation bilingual,0
-3642,desolation,richmond va,winter desolation death also al review interview,0
+3642,desolation,richmond va,winter desolation death also review interview,0
 3643,desolation,istanbul,agalloch desolation song,0
 3645,desolation,romania,si desolation,0
 3646,desolation,chile,fear panic air want free desolation despair feel like everything sow,0
@@ -2662,7 +2662,7 @@ id,keyword,location,text,target
 3821,detonate,memphistn,brown detonate mop,0
 3822,detonate,brasil,brown detonate mop,0
 3824,detonate,,nuke please target please detonate meter surface,1
-3825,detonate,,yo sexy,0
+3825,detonate,,sexy,0
 3826,detonate,,thats terrorism war army agent counter move detonate bomb,1
 3827,detonate,,brown detonate mop,0
 3828,detonate,morioh japan,another detonate killer queen,0
@@ -2698,7 +2698,7 @@ id,keyword,location,text,target
 3868,detonation,,detonation realistic assets enter,0
 3869,detonation,,new ignition knock detonation sensor,0
 3870,detonation,,ignition knock detonation standard,0
-3873,detonation,new york,new fashion ladies gold watch waterproof famous brand quartz de ca,0
+3873,detonation,new york,new fashion ladies gold watch waterproof famous brand quartz de,0
 3874,detonation,,ignition knock detonation,0
 3875,detonation,,ignition knock detonation sensor original equipment,0
 3876,detonation,bangkok thailand,new favorite trivium detonation sound cloud,0
@@ -2786,14 +2786,14 @@ id,keyword,location,text,target
 4005,disaster,,see one favorite book beautiful disaster may one mine,0
 4006,disaster,,sea know many dead last disaster turn mediterranean,1
 4008,disaster,,beautiful disaster good song,0
-4010,disaster,,wo give much nana remind right war restlessness lead disaster,1
+4010,disaster,,give much nana remind right war restlessness lead disaster,1
 4011,disaster,manila philippines,strengthen partnership livelihood disaster,1
 4012,disaster,,beautiful disaster,0
 4014,disaster,,first stain attempt disaster,0
 4017,disaster,nigeria,deal disaster,1
 4018,disaster,,want go back feel like would disaster much money would need bring,0
 4019,disaster,san francisco,blue bell may close return disaster hot recipe,1
-4020,disaster,hinton wva,jeff train wreck fin disaster fortunately pirate acquire top quality starter wait,1
+4020,disaster,hinton wva,train wreck fin disaster fortunately pirate acquire top quality starter wait,1
 4021,disaster,,night nit club,1
 4022,disaster,philadelphia pa usa,disaster avert police kill gunman hoax device cinema via,1
 4024,disaster,,expose hypocrisy disaster,1
@@ -2805,7 +2805,7 @@ id,keyword,location,text,target
 4030,disaster,fort worth texas,hell wrong rule iron fist ticket disaster swing one day next,0
 4032,disaster,,green welfare force member time disaster victim help work,1
 4033,disaster,,disaster say surprise,0
-4034,disaster,london,disaster excite thriller fi kindle,0
+4034,disaster,london,disaster excite thriller kindle,0
 4038,disaster,los angeles,keep mean like get answer plus say wrong thing might turn disaster,1
 4039,disaster,alexandria va,four technology could let human survive environmental disaster,0
 4041,disaster,calgary ab,quote disaster try browser machine always get miss error due drop,0
@@ -2854,12 +2854,12 @@ id,keyword,location,text,target
 4098,drought,usa,exceptional steady drought drought,1
 4100,drought,,record hurricane drought,1
 4101,drought,,record hurricane drought,1
-4103,drought,spokane wa,worry ca drought might affect extreme weather doe dampen economy,1
+4103,drought,spokane wa,worry drought might affect extreme weather doe dampen economy,1
 4104,drought,nyclamiami,talk world news record hurricane drought unite state hit major hurricane,1
 4105,drought,,record hurricane drought,1
 4107,drought,nigeria,nema warn prepare drought,1
 4108,drought,okanagan valley bc,drought rat valley make water work western canada drought,1
-4111,drought,san francisco ca,brown link ca wildfire drought,1
+4111,drought,san francisco ca,brown link wildfire drought,1
 4112,drought,caribbean,heat wave relentless feel like humidity relentless drought know worse place,1
 4113,drought,,treasure reveal drought drain lake,1
 4114,drought,canada,canada drought region issue level rat river fish suspend,1
@@ -2966,7 +2966,7 @@ id,keyword,location,text,target
 4257,drowning,,explanation request much want provide get job done constantly drown work,0
 4260,drowning,,drown acrylic,1
 4261,drowning,,drown girl centipede press sign number limit full,0
-4262,drowning,hendersonville nc,al,0
+4262,drowning,hendersonville nc,,0
 4264,drowning,new jersey dr,hello yeah someone drown send medic,1
 4265,drowning,ct ny,drown,0
 4266,drowning,,like theres fire skin drown within,1
@@ -2989,13 +2989,13 @@ id,keyword,location,text,target
 4293,drowning,,man save drown squirrel absolutely incredible,0
 4295,drowning,,ur matter drown tho already drown,0
 4296,drowning,pennsylvania usa,feel like drown inside body,0
-4297,drowning,san diego california,drown thats wo go swim,0
+4297,drowning,san diego california,drown thats go swim,0
 4298,dust storm,idaho,far brunt storm north gray dust rain blue sky intersperse cloud,0
 4299,dust storm,beirut lebanon,poor sod arrive amman yesterday dust storm divert ben airport,1
 4300,dust storm,,disappear dust storm atmospheric thriller,1
 4301,dust storm,el paso texas,image dust storm morocco strait,1
 4303,dust storm,,dust storm approach,1
-4304,dust storm,lubbock tx,severe storm weaken move se towards area outflow boundary may create dust gust,1
+4304,dust storm,lubbock tx,severe storm weaken move towards area outflow boundary may create dust gust,1
 4305,dust storm,,answer friend blow yell survive dust storm,1
 4306,dust storm,,disappear dust storm atmospheric thriller,1
 4307,dust storm,,survive dust storm,1
@@ -3024,7 +3024,7 @@ id,keyword,location,text,target
 4337,dust storm,,new mad show lovely dust storm combat magnum opus,0
 4341,dust storm,atlanta ga,even stay night barrier run dust storm almost pass,1
 4342,dust storm,chicago,go fest bring swim goggle dust storm circle pit,1
-4343,dust storm,,severe storm weaken move se towards area outflow boundary may create dust gust,1
+4343,dust storm,,severe storm weaken move towards area outflow boundary may create dust gust,1
 4345,dust storm,dutchenglishgerman,new mad show lovely dust storm combat magnum opus,0
 4348,earthquake,argentina,earthquake,1
 4349,earthquake,earth,earthquake occur near mount area earthquake,1
@@ -3152,7 +3152,7 @@ id,keyword,location,text,target
 4524,emergency,,emergency root canal sore,0
 4525,emergency,,yes especially new client walk think wart emergency,0
 4526,emergency,adelaide,flood international need care appeal,1
-4527,emergency,anchorage ak,emergency medicine nurse practitioner recruitment counselor ak em anchorage job,0
+4527,emergency,anchorage ak,emergency medicine nurse practitioner recruitment counselor ak anchorage job,0
 4528,emergency,world,set emergency fund easy step never know surprise expense pop work,0
 4529,emergency,,eye nation broad conservation community reinstate emergency buffer protect wolf,0
 4530,emergency,,go call tomorrow emergency dental appointment excuse like whole tooth fall incident last year,1
@@ -3186,7 +3186,7 @@ id,keyword,location,text,target
 4571,emergency plan,calgary,hello important news please advise,1
 4573,emergency plan,fort myers florida,cool tip friend counterstrike security sound,0
 4575,emergency plan,atlanta ga,cost less sick people use emergency,1
-4576,emergency plan,,yo need like emergency action plan incase trump become president baby,1
+4576,emergency plan,,need like emergency action plan incase trump become president baby,1
 4577,emergency plan,madison wi,accept emergency response plan behalf,0
 4578,emergency plan,kansas city,cruise mi emergency plan awesome fail,0
 4579,emergency plan,north hastings ontario,practice family fire escape plan everyone know case emergency,0
@@ -3206,7 +3206,7 @@ id,keyword,location,text,target
 4598,emergency services,,really compare emergency service thats brilliant talk arse,0
 4599,emergency services,london,drive close ways emergency service deal call bus stick,1
 4600,emergency services,,know abouts hear emergency service near,1
-4601,emergency services,torrance ca,join providence health service team see latest open ca nurse job hire,0
+4601,emergency services,torrance ca,join providence health service team see latest open nurse job hire,0
 4602,emergency services,usa alabama,task force present levy fund emergency service,1
 4604,emergency services,olympia wa,alert emergency department psychiatric day providence health service nurse,1
 4606,emergency services,london uk,family serve military work emergency service work,1
@@ -3218,7 +3218,7 @@ id,keyword,location,text,target
 4614,emergency services,,locksmith domesticate emergency mechanic service circa clock movement,0
 4616,emergency services,orange county ny,public hear budget emergency service,0
 4617,emergency services,henderson nevada,apply work dignity health service full time campus emergency job,0
-4619,emergency services,los angeles ca,want work ca view latest open mission hill nurse job job hire,0
+4619,emergency services,los angeles ca,want work view latest open mission hill nurse job job hire,0
 4620,emergency services,vancouver british columbia,remove tsunami debris west coast emergency service manager,1
 4622,emergency services,london england,worker may trouble plan hope none need emergency service,0
 4624,emergency services,usa,call emergency service train horse break news,1
@@ -3230,12 +3230,12 @@ id,keyword,location,text,target
 4632,emergency services,sydney new south wales,man henry van miss emergency service search man disappear,1
 4634,emergency services,olympia wa,read latest open emergency department psychiatric day hire job,0
 4635,emergency services,kodiak ak,providence health service emergency service supervisor emergency department ak job,0
-4637,emergency services,los angeles ca,want work ca view latest open nurse job job hire,0
+4637,emergency services,los angeles ca,want work view latest open nurse job job hire,0
 4639,emergency services,,beyond stress beyond hysteria grey misty indifference complete shutdown emergency service brain,0
 4641,emergency services,sydney,service return normal medical emergency urgent track equipment repair early south line,1
 4642,emergency services,birmingham england,hi think smile believe emergency service best perform art follower,0
 4644,emergency services,park ridge illinois,doctor nurse new pediatric emergency department specialize child service,0
-4646,emergency services,los angeles ca,ca register nurse emergency department full time providence health service mission hill nurse,0
+4646,emergency services,los angeles ca,register nurse emergency department full time providence health service mission hill nurse,0
 4649,engulfed,fredoniany,saw car fully engulf flame,1
 4650,engulfed,,men escape car engulf flame parley canyon crew investigate cause,1
 4655,engulfed,,men escape car engulf flame parley canyon crew investigate cause,1
@@ -3286,7 +3286,7 @@ id,keyword,location,text,target
 4710,epicentre,cydia,question anybody else problem circle epicentre via,0
 4711,evacuate,,feel like cee ever get room everyone evacuate would petty childish could deal,1
 4712,evacuate,,organizer say reopen music festival threat storm prompt evacuate,1
-4713,evacuate,tallahassee florida,learn evacuate home event view video wildfire ca ut,1
+4713,evacuate,tallahassee florida,learn evacuate home event view video wildfire ut,1
 4714,evacuate,,disaster control team study ways evacuate port area response tidal wave,1
 4715,evacuate,new england,make sure evacuate past fire door question yes would open door fire cant,0
 4716,evacuate,waterloo ont,theres fire alarm go keep work minute decide evacuate everyone,1
@@ -3351,7 +3351,7 @@ id,keyword,location,text,target
 4794,evacuated,,doctor must leave immediately core whole build tell evacuate take research need,1
 4795,evacuated,,evacuation order lift town time,1
 4797,evacuated,seoul,rocky fire,1
-4798,evacuated,,al sham negotiation al want evacuate al,0
+4798,evacuated,,negotiation want evacuate,0
 4799,evacuated,wa state,entire town wash evacuate wildfire,1
 4800,evacuated,hensley street portland,remain close brush fire burn acre live,1
 4802,evacuated,,good thing actually legit fire mall nobody evacuate,1
@@ -3424,7 +3424,7 @@ id,keyword,location,text,target
 4895,explode,,mess go explode,1
 4896,explode,,brain go explode need leave house ill smoke pack need,0
 4897,explode,cleveland tn,vine year god explode,0
-4898,explode,,tag millions em high alpha dog yeah boy doll face little white lie explode,0
+4898,explode,,tag millions high alpha dog yeah boy doll face little white lie explode,0
 4899,explode,,learn gain access secret top earner use explode home business please,0
 4900,explode,,want duck explode could greasy,0
 4901,explode,,people explode,0
@@ -3592,12 +3592,12 @@ id,keyword,location,text,target
 5128,fatal,laredo tx,petition fatal frame mode,0
 5130,fatal,thane,boy charge manslaughter toddler report boy charge manslaughter fatal sh,1
 5131,fatal,new south wales australia,man charge fatal crash near refuse bail via,1
-5132,fatal,,man face manslaughter charge fatal crash ca,1
+5132,fatal,,man face manslaughter charge fatal crash,1
 5134,fatal,poconos,five fatal flaw deal via,0
 5135,fatal,sacramento ca,police investigate fatal shoot north,1
 5136,fatal,haddonfield nj,deputy dog dispute lead fatal shoot person county,1
 5137,fatal,,boy charge manslaughter toddler report boy charge manslaughter fatal sh,1
-5138,fatal,southern california,ca cop illegal immigrant prior arrest charge fatal sex attack,1
+5138,fatal,southern california,cop illegal immigrant prior arrest charge fatal sex attack,1
 5139,fatal,,thank yes kindness fatal though like stump level kindness,0
 5140,fatal,,boy charge manslaughter toddler report boy charge manslaughter fatal sh,1
 5141,fatal,jaipur rajasthan india,success permanent failure fatal,0
@@ -3662,7 +3662,7 @@ id,keyword,location,text,target
 5210,fatalities,ireland,driver fatality road pedestrian cyclist risk,1
 5211,fatality,lowell ma,victory,0
 5212,fatality,,cuddle right,0
-5213,fatality,,yo,1
+5213,fatality,,,1
 5218,fatality,ny,savage leak account wonder quick fatality mobile real son,0
 5219,fatality,,like video fatality captain falcon,0
 5220,fatality,,hibernate irrespective pitch fatality pan,0
@@ -3756,7 +3756,7 @@ id,keyword,location,text,target
 5335,fire,,yeah need another middle class hat republican get hard work cop fire fighter teacher,0
 5336,fire,,fire way close go,1
 5337,fire,,fire meet gasoline always get get play twice,0
-5338,fire,,tha bitch fire,0
+5338,fire,,bitch fire,0
 5339,fire,,well feel like fire,0
 5341,fire,louisville kentucky,eye word icy burn like rum fire,0
 5342,fire,,harry percent woman serve plan parenthood claim pant fire lie news,0
@@ -3828,7 +3828,7 @@ id,keyword,location,text,target
 5444,first responders,michigan,extend health care first responder,1
 5445,first responders,bloomington indiana,help say work curb first responder suicide,1
 5446,first responders,usa,first responder convene national summit award technology geo tech,0
-5448,first responders,,york first responder compete save live badge blood em,0
+5448,first responders,,york first responder compete save live badge blood,0
 5449,first responders,washington dc,good help first responder cope individual resilience responder,0
 5450,first responders,,live lose except first responder public charge protect,1
 5452,first responders,basking ridge nj,first responder get free detail,0
@@ -3931,9 +3931,9 @@ id,keyword,location,text,target
 5587,flood,new york,pair new round lead work drive flood light full read,0
 5588,flood,new york,cree lead work light lamp car truck boat mine flood beam full rea,0
 5589,flood,,basic flood defective soul mate milk trench host,1
-5590,flood,,issue areal flood advisory al till,1
+5590,flood,,issue areal flood advisory till,1
 5592,flood,new york,cree lead work light lamp car truck boat mine flood beam full rea,0
-5593,flood,usa,flood advisory effect county al,1
+5593,flood,usa,flood advisory effect county,1
 5594,flood,united states,meet flood grant set night grant fund,1
 5595,flood,new york,spot flood curve cree lead work light bar fog lamp full,0
 5598,flood,new york,spot flood curve cree lead work light bar fog lamp full,0
@@ -4076,13 +4076,13 @@ id,keyword,location,text,target
 5792,hail,calgaryairdriereddeerab,like big hail lie sir mix,0
 5793,hail,united states,issue severe thunderstorm warn wind hail sharp ar till,1
 5794,hail,hattiesburg ms,two great dak hail state,0
-5795,hail,arkansas,strong thunderstorm mile north move se large hail wind gust poss,1
+5795,hail,arkansas,strong thunderstorm mile north move large hail wind gust poss,1
 5797,hail,united states,issue severe thunderstorm warn wind hail stoke till,1
 5798,hail,,thank much everyone post rain hail outside idea guy,0
 5799,hail,dagenham essex,everyone hail pumpkin king,0
 5800,hail,,cue storm massive wind hail power outage county,1
 5801,hail,,enjoy hopefully epic hail storm go,0
-5803,hail,usa,strong thunderstorm mile north move se large hail wind gust poss,1
+5803,hail,usa,strong thunderstorm mile north move large hail wind gust poss,1
 5804,hail,florida usa,hail lady reason obsess cole,0
 5805,hail,windsorontario,look like bowl weather cereal new sugar hail stay crunchy even milk,0
 5807,hail,,hail mary full grace lord thee bless art thou among woman bless fruit thy,0
@@ -4173,7 +4173,7 @@ id,keyword,location,text,target
 5925,harm,,continue believe righteous continually harm defeat ideal,1
 5927,harm,,yes lot harm good guardrail cant go big problem school start,0
 5928,harm,portland or,harm foul somebody need say,0
-5929,harm,,hell yo ass think,0
+5929,harm,,hell ass think,0
 5930,harm,,self harm angry please tag scar dont want get trigger,0
 5932,harm,,feel like movie done harm good make look prevalent sort,0
 5933,harm,los angeles california,quality metrics penalty may harm patient care say primary care physician generally hold positive view,0
@@ -4306,7 +4306,7 @@ id,keyword,location,text,target
 6111,hellfire,,prophet peace upon say save hellfire even give half date charity,0
 6112,hellfire,,hellfire surround desire careful dont let desire control afterlife,1
 6113,hellfire,,hellfire dont even want think mention let anything lead,0
-6115,hellfire,vanderbilt brooklyn ny,new cocktail list el mas mezcal yellow chartreuse honey cucumber hellfire bitter,0
+6115,hellfire,vanderbilt brooklyn ny,new cocktail list mas mezcal yellow chartreuse honey cucumber hellfire bitter,0
 6116,hellfire,,hellfire surround desire careful dont let desire control afterlife,0
 6118,hellfire,,prophet peace upon say save hellfire even give half date charity,0
 6119,hellfire,,hellfire dont even want think mention let anything lead,0
@@ -4605,7 +4605,7 @@ id,keyword,location,text,target
 6546,injury,,enter world extreme dive story river,0
 6547,injury,los angeles california,firework explosion incident,1
 6548,injury,,inner loop exit ave silver spring,1
-6549,injury,cambridge massachusetts,atlas tonight negro copa play leave previous game injury,0
+6549,injury,cambridge massachusetts,atlas tonight negro play leave previous game injury,0
 6550,injury,,rotator injury recovery kit super high convert rotator cuff poster cuff,0
 6551,injury,lahore,live cricket score match international domestic team tour team squad profile injury ba update follow,0
 6552,injury,saint paul,prediction viking game expect whole lot think goal free game,1
@@ -4776,7 +4776,7 @@ id,keyword,location,text,target
 6793,lightning,reddit,lightning strike distance via pic,1
 6794,lightning,state college pa,check amaze footage lightning film lift,0
 6795,lightning,,check lightning reshape rock atomic level science,1
-6796,lightning,waverly ia,walk away nothing say see lightning eye see em run live,0
+6796,lightning,waverly ia,walk away nothing say see lightning eye see run live,0
 6799,loud bang,kenya,break news unconfirmed hear loud bang nearby appear blast wind ass,0
 6800,loud bang,kenya,break news unconfirmed hear loud bang nearby appear blast wind ass,0
 6801,loud bang,,thing actually explode loud space action movie teach,0
@@ -4914,7 +4914,7 @@ id,keyword,location,text,target
 6994,massacre,norway,creepy youth camp ever,0
 6996,mayhem,,beach read august hop give away book mayhem series giveaway,0
 6998,mayhem,wausau wisconsin,thank drive mayhem scary,0
-6999,mayhem,,slayer reflect low mayhem festival attendance king diamond jeff pass,0
+6999,mayhem,,slayer reflect low mayhem festival attendance king diamond pass,0
 7001,mayhem,orlando fl,guess ill never able go mayhem,0
 7002,mayhem,raleigh nc,like video gun range mayhem,1
 7005,mayhem,,editor chief release issue fashion model mayhem,0
@@ -4935,7 +4935,7 @@ id,keyword,location,text,target
 7027,mayhem,pg county md,tonight go mayhem everybody free text,0
 7029,mayhem,,park shoot report via,1
 7030,mayhem,,see lot ask ask magic realism fantasy whats,0
-7031,mayhem,,slayer reflect low mayhem festival attendance king diamond jeff pass,0
+7031,mayhem,,slayer reflect low mayhem festival attendance king diamond pass,0
 7032,mayhem,,best mind clear content observation days,0
 7036,mayhem,,editor chief release issue fashion model mayhem,0
 7037,mayhem,london uk,bite go venture choose suitable music mayhem,0
@@ -5195,7 +5195,7 @@ id,keyword,location,text,target
 7414,obliterated,,come move entire existence would obliterate,0
 7415,obliterated,,drink meal cook totally obliterate,1
 7416,obliterated,,destroy fan club twitter obliterate reduce sock,0
-7418,obliterated,wynne ar,remember hear rule days wo defense strip brock obliterate,0
+7418,obliterated,wynne ar,remember hear rule days defense strip brock obliterate,0
 7419,obliterated,dublin ireland,look like profile shall nothing leave offer mix obliterate,0
 7421,obliterated,,god cocky right love obliterate ball strut batter box,0
 7424,obliterated,palmyra nj,obliterate last night,0
@@ -5328,7 +5328,7 @@ id,keyword,location,text,target
 7604,pandemonium,everett wa,would love see map theme place like pandemonium,0
 7605,pandemonium,mumbai india,pass bill pandemonium use cant,0
 7607,pandemonium,,ill soon pandemonium,1
-7608,pandemonium,,watch pandemonium copa,0
+7608,pandemonium,,watch pandemonium,0
 7609,pandemonium,,pandemonium woman deliver baby without face photo,0
 7610,pandemonium,,iso pandemonium,0
 7611,pandemonium,,pandemonium use get,1
@@ -5398,7 +5398,7 @@ id,keyword,location,text,target
 7698,panicking,,yea someone faint panic thats basic stuff,1
 7699,panicking,,find kind panic,0
 7701,panicking,,new post people finally panic cable,0
-7702,panicking,,hear mumble hear cackle get em scar shake panic,0
+7702,panicking,,hear mumble hear cackle get scar shake panic,0
 7703,panicking,singapore,make mood go panic,0
 7707,panicking,oxford bristol,panic,0
 7711,panicking,,burn whole city go laugh everyone theyre panic,0
@@ -5424,7 +5424,7 @@ id,keyword,location,text,target
 7738,panicking,,go lie panic little bite freeman practice,0
 7739,panicking,south florida,people finally panic cable,0
 7742,panicking,,stop panic,0
-7743,panicking,,sis sit cam wo panic,0
+7743,panicking,,sis sit cam panic,0
 7744,panicking,manchester england,people panic result day though like worry go change result,0
 7746,police,san francisco,say war terrorism police take ready start shoot enemy,1
 7747,police,kansas city mo,police gunman report dead area theater suspect carry gun hatchet,1
@@ -5443,7 +5443,7 @@ id,keyword,location,text,target
 7761,police,,police expand search miss pregnant woman police expand th,0
 7763,police,,good police take care also extra security harry careful,0
 7764,police,republic of texas,distribute local police department want know bayonet evil empire jade,0
-7765,police,portland or,unwanted person block se ave police,0
+7765,police,portland or,unwanted person block ave police,0
 7766,police,florida,episcopal priest road trip interracial family share harrow story police harassment via,0
 7767,police,,bounty try raid phoenix police chief home group arm bounty,1
 7768,police,usa,million bail man accuse fife shoot police,1
@@ -6057,7 +6057,7 @@ id,keyword,location,text,target
 8654,sinkhole,ny,gap sinkhole open new york,1
 8655,sinkhole,,morning respond sinkhole unit remain,1
 8656,sinkhole,,sinkhole open county residential area minute ago,1
-8657,sinkhole,,large sinkhole swallow entire pond county yo news,1
+8657,sinkhole,,large sinkhole swallow entire pond county news,1
 8658,sinkhole,white plains ny,try write theological short story monster live sinkhole hear,0
 8659,sinkhole,,sinkhole wont believe whats sinkhole,0
 8660,sinkhole,,load stuff go recently see sinkhole pile,0
@@ -6083,7 +6083,7 @@ id,keyword,location,text,target
 8688,sinkhole,,random hole break street,0
 8689,sinkhole,san diego ca,orange blue line rider expect delay downtown due sinkhole thats develop vicinity street,1
 8690,sinkhole,,theres sinkhole,1
-8691,sinkhole,,share large sinkhole swallow entire pond county large yo news,1
+8691,sinkhole,,share large sinkhole swallow entire pond county large news,1
 8692,sinking,,feel like sink low take quiz,0
 8693,sinking,sacramento,year afloat pension plan start sink,1
 8694,sinking,,feel like sink unhappiness take quiz,0
@@ -6297,7 +6297,7 @@ id,keyword,location,text,target
 8994,stretcher,,free snip lumbar extender back stretcher excellent condition please favorite share,0
 8996,stretcher,,see,0
 8998,stretcher,oklahoma city,dan take stretcher collide hope call game year,0
-8999,stretcher,nyc,would appreciate everyone em could dust engineer degree inspect stretcher component,0
+8999,stretcher,nyc,would appreciate everyone could dust engineer degree inspect stretcher component,0
 9000,stretcher,austinlos angeles,stretcher bring cut commercial good sign ultima underground,0
 9001,stretcher,florida,restore vinyl side make look new,0
 9002,stretcher,,let baby,0
@@ -6385,7 +6385,7 @@ id,keyword,location,text,target
 9121,suicide bomb,,old suicide bomber detonate bomb turkey army trench release,1
 9123,suicide bomb,,old suicide bomber detonate bomb turkey army trench release,1
 9124,suicide bomb,,pic old suicide bomber detonate bomb turkey army trench release,1
-9126,suicide bomb,,wo pic old suicide bomber detonate bomb turkey army trench release,1
+9126,suicide bomb,,pic old suicide bomber detonate bomb turkey army trench release,1
 9128,suicide bomb,,pic old suicide bomber detonate bomb turkey army trench release,1
 9130,suicide bomb,,theft suicide car bomb,1
 9131,suicide bomb,,pic old suicide bomber detonate bomb turkey army trench release,1
@@ -6708,7 +6708,7 @@ id,keyword,location,text,target
 9606,thunder,,love sound thunder rumble across mountain,0
 9607,thunder,,glad save didnt want steal thunder,1
 9608,thunderstorm,tulsa oklahoma,severe thunderstorm warn county radar,1
-9609,thunderstorm,,play thunderstorm hope bless em,1
+9609,thunderstorm,,play thunderstorm hope bless,1
 9610,thunderstorm,,advice dont go run thunderstorm,0
 9611,thunderstorm,,special weather statement issue august strong thunderstorm impact,1
 9612,thunderstorm,,severe thunderstorm warn issue august august,1
@@ -6976,7 +6976,7 @@ id,keyword,location,text,target
 10004,tsunami,,sister new video come apocalyptic earthquake tsunami thank,0
 10005,tsunami,,energy,0
 10006,tsunami,,worry,0
-10008,twister,,twister tha end like,1
+10008,twister,,twister end like,1
 10009,twister,calgary alberta,saw lot hail home video twister mile home,1
 10010,twister,,want twister ticket chance experience see click,0
 10011,twister,,stop say whole nother sound stupid mean whole,0
@@ -7002,9 +7002,9 @@ id,keyword,location,text,target
 10037,twister,city ok,happy twister thank laugh stick side matter also,0
 10038,twister,,many men would human hew human could hew men popular tongue twister among woodchuck,0
 10039,twister,,like video extreme paint twister,0
-10040,twister,,tornado el may give canada twister season boost,1
+10040,twister,,tornado may give canada twister season boost,1
 10041,twister,lisbon portugal,like bad end least care little dan cause twister know,0
-10042,twister,,listen tu twister el,0
+10042,twister,,listen tu twister,0
 10044,twister,,white twister black shift knob thread size,0
 10045,twister,,twister dance game dance console instruction cable load song,0
 10047,twister,,say wicked twister wont run,0
@@ -7096,7 +7096,7 @@ id,keyword,location,text,target
 10163,violent storm,,rather violent storm possibility stream tonight,1
 10164,violent storm,watertown mass,violent storm cause damage flood,1
 10168,violent storm,toronto,thunder pound north go black deep bruise sky chest wind cry pain summer storm tough life short violent,1
-10169,violent storm,,violent record break el tornado nearly run,1
+10169,violent storm,,violent record break tornado nearly run,1
 10171,violent storm,,video capture violent land airport,1
 10172,violent storm,,storm batter northland violent overnight storm batter northland uproot,1
 10173,violent storm,,violent force radio play agony storm apocalypse player,0
@@ -7165,7 +7165,7 @@ id,keyword,location,text,target
 10264,war zone,,still world war zone,0
 10265,war zone,,war drug turn war zone,1
 10268,war zone,,start another war would willing go send ur sons daughter fight debate question want hear,1
-10269,war zone,,still world war zone inmate em dead wrong,0
+10269,war zone,,still world war zone inmate dead wrong,0
 10270,war zone,,dare turn streets war zone war citizen world watch,1
 10272,war zone,,pack aka room look like war zone,0
 10273,war zone,southern california,drive suck case know desk look like war zone everyone go need mode,0
@@ -7196,7 +7196,7 @@ id,keyword,location,text,target
 10306,weapon,des moines ia,might buy esoteric weapon astrologian,0
 10307,weapon,,nuclear bomb terrible weapon,1
 10308,weapon,,pulse rifle weapon tune,0
-10310,weapon,washington dc,rare insight fight terror es de ca,1
+10310,weapon,washington dc,rare insight fight terror es de,1
 10313,weapon,,back back like cover lethal weapon,0
 10314,weapon,california united states,enable locker weapon rule use limit insane limit,0
 10315,weapon,,government make clear grenade weapon,1
@@ -7308,7 +7308,7 @@ id,keyword,location,text,target
 10456,wild fires,,climate change weather specialist fire rain flood note sun,1
 10457,wild fires,los angeles ca,thank sen hurry home huge uncontrolled wild fire lighten start new fire,1
 10458,wild fires,,wild fire freak like hell,1
-10461,wild fires,olathe ks,man would give ca right help wild fire,1
+10461,wild fires,olathe ks,man would give right help wild fire,1
 10462,wild fires,madrid,nature kind tornado hurricane wild fire earthquake flash flood snow drought,1
 10464,wild fires,johannesburg south africa,load shed permanently live like wild camp fire cook fire,0
 10466,wild fires,hartford connecticut,head fight wild fire,1
@@ -7360,7 +7360,7 @@ id,keyword,location,text,target
 10535,windstorm,galveston texas,sixth year row premium cost windstorm insurance climb time percent news,0
 10536,windstorm,,windstorm lastingness perquisite acquiesce twister retreat,1
 10537,windstorm,chicago,fifty date still single windstorm nook book,0
-10540,windstorm,palm beach county fl,reality train train fall elevate track windstorm em,1
+10540,windstorm,palm beach county fl,reality train train fall elevate track windstorm,1
 10541,windstorm,,seek comment rule change windstorm insurer insurance,0
 10543,windstorm,,seek comment rule change windstorm insurer,1
 10544,windstorm,victoria bc,look outside windstorm,1
@@ -7372,7 +7372,7 @@ id,keyword,location,text,target
 10552,windstorm,,seek comment rule change windstorm insurer department insurance insurance,1
 10553,windstorm,gettysburg pa,school seven bell windstorm play,0
 10554,windstorm,austin texas,windstorm board rate hike change politics,0
-10555,windstorm,,reality train train fall elevate track windstorm fire em,1
+10555,windstorm,,reality train train fall elevate track windstorm fire,1
 10557,windstorm,florida usa,one thing want see stand good windstorm hat trump,0
 10558,windstorm,hermitage pa,average voter would go circus,0
 10559,windstorm,,lees word like windstorm browner,0
@@ -7397,11 +7397,11 @@ id,keyword,location,text,target
 10582,windstorm,,major windstorm thunder rain near,1
 10583,windstorm,webster tx,board approve percent rate hike windstorm insurance association board director,1
 10584,windstorm,,seek comment rule change windstorm insurer,0
-10585,wounded,,gunman kill four el bus attack suspect gang member kill four people wound,1
+10585,wounded,,gunman kill four bus attack suspect gang member kill four people wound,1
 10587,wounded,maracay y nirgua venezuela,police officer wound suspect dead exchange shot,1
 10588,wounded,,also love bury heart wound knee game,0
 10589,wounded,scottsdale az,whole food stamp assistance program need retool wound veteran retire handicap handout,0
-10590,wounded,united states,gunman open fire bus near el capital kill week gang attack kill bus driver bite,1
+10590,wounded,united states,gunman open fire bus near capital kill week gang attack kill bus driver bite,1
 10591,wounded,paterson new jersey,officer wound suspect kill exchange gunfire police officer wound suspect kill,1
 10592,wounded,new york,one man fatally shoot another wound street buffalo,1
 10593,wounded,venezuela,police officer wound suspect kill,1
@@ -7410,7 +7410,7 @@ id,keyword,location,text,target
 10599,wounded,miamifla,cop sketch gunman kill one wound two deputy via,1
 10600,wounded,,police officer wound suspect dead exchange shot police officer wound suspect kill exchange gunfire,1
 10601,wounded,illinois usa,let forget wound female veteran,1
-10603,wounded,,gunman kill four el bus attack suspect gang member kill four people wound,1
+10603,wounded,,gunman kill four bus attack suspect gang member kill four people wound,1
 10605,wounded,,ever see president kill wound child man crash sister plane send god,0
 10606,wounded,usa,one man fatally shoot another wound street buffalo,1
 10607,wounded,suva fiji islands,general audience wound family world see,0
@@ -7593,9 +7593,9 @@ id,keyword,location,text,target
 10846,,,heat wave warn aa plan visit friend year,1
 10847,suicide bomber,,group suicide bomber detonate vest mosque inside special force headquarter kill people,1
 10848,loud bang,,hear really loud bang everyone asleep great,0
-10849,screams,,gas thing explode hear scream whole street smell gas,1
+10849,explode,,gas thing explode hear scream whole street smell gas,1
 10850,,,flash flood warn continue county,1
-10851,trauma,,issue severe warning part expect trauma case thunderstorm ar,1
+10851,thunder,,issue severe warning part expect trauma case thunderstorm ar,1
 10852,debris,,aircraft debris find reunion miss,1
 10853,,,lose control car overtake collide bath north east somerset,1
 10854,earthquake,,user earthquake information earthquake phone,1
@@ -7604,10 +7604,10 @@ id,keyword,location,text,target
 10860,siren,,siren go tornado warn,1
 10862,quarantine,,official say quarantine place home possible case develop symptom,1
 10863,evacuated,,fall glink tram update fire crew evacuate passenger world news,1
-10864,bomb,,flip side bomb everyone evacuate stay tune blow,1
+10864,evacuate,,flip side bomb everyone evacuate stay tune blow,1
 10866,bomb,,suicide bomber kill security site mosque via world news wall,1
-10867,storm,,violent record break el tornado nearly run,1
-10869,collapse,,two giant crane hold bridge collapse nearby home,1
+10867,storm,,violent record break tornado nearly run,1
+10869,bridge collapse,,two giant crane hold bridge collapse nearby home,1
 10870,fire,,control wild fire even northern part state trouble,1
 10871,,,volcano,1
 10872,collided,,police investigate collide car little rider suffer serious nonlife threaten injury,1

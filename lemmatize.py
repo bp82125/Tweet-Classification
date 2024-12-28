@@ -14,7 +14,6 @@ def load_custom_words(file_path):
         print(f"File {file_path} not found. Returning an empty set.")
         return set()
 
-
 rejected_words = load_custom_words('rejected_words.txt')
 accepted_words = load_custom_words('accepted_words.txt')
 

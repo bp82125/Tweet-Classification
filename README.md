@@ -9,7 +9,7 @@ The goal was to classify tweets as disaster-related or not using machine learnin
 ## How to Use
 
 1. **Data Preprocessing**: Explore [pre_process.ipynb](pre_process.ipynb) for cleaning and preparing the dataset.
-2. **Feature Extraction**: Notebooks such as `bag_of_words.ipynb`, `tf_idf.ipynb`, and `word2vec.ipynb` test different methods for extracting features.
+2. **Feature Extraction**: Notebooks such as [bag_of_words.ipynb](bag_of_words.ipynb), [tf_idf.ipynb](tf_idf.ipynb), and [word2vec.ipynb](word2vec.ipynb) test different methods for extracting features.
 3. **Model Training**: Train and evaluate models using the prepared data. Some of the deep learning models can be found in the [DL](./DL) folder.
 
 ## Notes

@@ -2,6 +2,10 @@
 
 This project was the final assignment for the CT312 Data Mining course. It served as a playground to preprocess the dataset, experiment with feature extraction techniques, and train machine learning models for tweet classification.
 
+
+- [Visit the deployed site](https://tweetclassification.onrender.com/)
+- [Check the source code of that website here](https://github.com/nTrong128/tweetclassification_frontend)
+
 ## About
 
 The goal was to classify tweets as disaster-related or not using machine learning techniques. This repository is an archive of my work on this project, including data preprocessing, feature extraction, and model training experiments.

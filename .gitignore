@@ -30,6 +30,7 @@ Deploy/
 
 *.zip
 *.keras
+*.pptx
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
